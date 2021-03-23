@@ -42,6 +42,7 @@ body {
   color: whitesmoke;
   padding: 10px 20px;
   text-decoration: none;
+  margin-right: 10px;
 }
 .contact {
   margin-bottom: 50px;
@@ -67,4 +68,9 @@ body {
   .name {
     font-size: 30px;
   }
+}
+.title {
+  font-size: 54px;
+  font-weight: 400;
+  text-align: center;
 }
